@@ -5,8 +5,6 @@ Original file is located at
 """
 
 from google.colab import files
-
-# Upload the titanic.csv file
 uploaded = files.upload()
 
 # Lung Cancer Prediction Project
